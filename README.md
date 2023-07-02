@@ -37,3 +37,11 @@
 ![alt text](https://github.com/Denis799/project_translator/blob/master/images/19.jpg?raw=true)
 # $\textcolor{blue}{Графики\ подготовленной\ базы}$
 ![alt text](https://github.com/Denis799/project_translator/blob/master/images/20.jpg?raw=true)
+![alt text](https://github.com/Denis799/project_translator/blob/master/images/43.jpg?raw=true)
+![alt text](https://github.com/Denis799/project_translator/blob/master/images/44.jpg?raw=true)
+# $\textcolor{blue}{Метрики,\ Loss,\ функции оценки}$
+![alt text](https://github.com/Denis799/project_translator/blob/master/images/45.jpg?raw=true)
+# $\textcolor{blue}{Оценка\ точности\ модели}$
+![alt text](https://github.com/Denis799/project_translator/blob/master/images/46.jpg?raw=true)
+# $\textcolor{blue}{Демонстрация\ этапов\ распознавания}$
+![alt text](https://github.com/Denis799/project_translator/blob/master/images/47.jpg?raw=true)
