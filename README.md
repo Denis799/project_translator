@@ -45,3 +45,4 @@
 ![alt text](https://github.com/Denis799/project_translator/blob/master/images/46.jpg?raw=true)
 # $\textcolor{blue}{Демонстрация\ этапов\ распознавания}$
 ![alt text](https://github.com/Denis799/project_translator/blob/master/images/47.jpg?raw=true)
+![alt text](https://github.com/Denis799/project_translator/blob/master/images/48.jpg?raw=true)
